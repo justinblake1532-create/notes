@@ -1,15 +1,15 @@
 # CIA Triad
 
 ## Confidential(C)
- : Disclosing the data to <u>authorized</u> personnel
+ : Disclosing the data to <ins>authorized</ins> personnel
 
 
 ## Integrity(I)
- : Data isn't <u>modified or tampered</u> with
+ : Data isn't <ins>modified or tampered</ins> with
 
 
 ## Availability(A)
- : Data is <u>availalable</u> when needed
+ : Data is <ins>availalable</ins> when needed
 
 
 ## CIA -> Non-Repudiation
