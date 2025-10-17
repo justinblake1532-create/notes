@@ -1,13 +1,19 @@
-# CIA_Triad
+# CIA Triad
 
-Confidential(C)
+## Confidential(C)
  : Disclosing the data to <u>authorized<u> personnel
-Integrity(I)
+
+
+## Integrity(I)
  : Data isn't <u>modified or tampered<u> with
-Availability(A)
+
+
+## Availability(A)
  : Data is <u>availalable<u> when needed
 
-CIA -> Non-Repudiation
 
-Non-Repudiation
+## CIA -> Non-Repudiation
+
+
+## Non-Repudiation
  : Provides assurance that the data's origin can be verified. Also, helps to prove the sender's identity
