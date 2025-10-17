@@ -8,7 +8,7 @@
 
 2) Find how to detect Phising attacks.
 
-    #### DS0015
+    #### <ins>DS0015</ins>
      : Monitor for third-party app logging, messaging, and/or other artifacts that may send phising messages to gain access to victim systems
 
     #### DS0022
