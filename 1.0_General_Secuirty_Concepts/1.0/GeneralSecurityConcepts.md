@@ -1,16 +1,16 @@
 # GeneralSecurityConcepts
 
-## Sophistication
+### Sophistication
  : How complex is it?
 
 
-## Proliferation of the Attacks
+### Proliferation of the Attacks
  : Accessibility of conducting an attack
 
 
-## Scale
+### Scale
  : How many systems were affected?
 
 
-## Velocity
+### Velocity
  : The speed of the attack(s)

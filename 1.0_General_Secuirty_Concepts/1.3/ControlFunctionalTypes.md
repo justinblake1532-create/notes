@@ -1,24 +1,24 @@
 # Control Functional Types
 
-## Preventive
+### Preventive
  : Designed to stop a security incident or vulnerability from occurring by preventing unauthorized access or activity <ins>before</ins> it happens
 
 
-## Detective
+### Detective
  : Identifies and records events <ins>after they have occurred</ins>, but <ins>without</ins> directly preventing them
 
 
-## Corrective
+### Corrective
  : Security measure implemented <ins>after a security incident</ins> to mitifate its damage and restore system to a secure state
 
 
-## Directive
+### Directive
  : Guides or mandates compliance with security policies and procedures
 
 
-## Deterrent
+### Deterrent
  : Designed to discourage malicious or accidental actions by installing a fear of consequences or making a system seem like a challenging target, rather than physically preventing the action
 
 
-## Compensating
+### Compensating
  : Alternative security measures implemented when primary or recommended control is not feasible due to technical, operational, or physical measure.
