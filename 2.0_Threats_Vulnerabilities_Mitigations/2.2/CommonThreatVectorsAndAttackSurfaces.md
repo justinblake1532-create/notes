@@ -1,17 +1,17 @@
 # Common Threat Vectors and Attack Surfaces
 
-## Message-Based
+### Message-Based
 * Email
 * Short Message Service (SMS)
 * Instant Message (IM)
-## Image-Based
-## File-Based
-## Voice Call
-## Removable Device
-## Vulnerable Software
+### Image-Based
+### File-Based
+### Voice Call
+### Removable Device
+### Vulnerable Software
 * Client-Based vs. Agentless
-## Unsupported Systems and Applications
-## Human Vectors/Social Engineering
+### Unsupported Systems and Applications
+### Human Vectors/Social Engineering
 * Phising
 * Vishing
 * Smishing
@@ -22,7 +22,7 @@
 * Watering Hole
 * Brand Impersonation
 * Typosquatting
-## Strategies for Attacks
+### Strategies for Attacks
 * Reconnaissance 
 * Social Engineering
 * Breaching Systems
