@@ -5,7 +5,7 @@
  : Providing a secure process to interact with specifi resources
 
 
- 
+
 - ### Identification(ID)
 - ### Authorization(what?)
 - ### Authentication(who?)
@@ -13,11 +13,11 @@
 
 
 
-1. ### Identify
-2. ### Protect
-3. ### Detect
-4. ### Respond 
-5. ### Recover
+1. Identify
+2. Protect
+3. Detect
+4. Respond 
+5. Recover
 
 
 ### Gap Analysis
