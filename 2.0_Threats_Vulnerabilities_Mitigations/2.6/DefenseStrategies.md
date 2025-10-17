@@ -23,5 +23,5 @@
  : intentionally introduces unpredictability into a system to make it more difficult for attackers to exploit vulnerabilities
 
 
-### implicity
+### Simplicity
  : Secuirty systems should be as straight forward and uncomplicated as possible
