@@ -1,12 +1,12 @@
 # Mitigation Techniques
 
-## Segmentation
-## Access Control
+### Segmentation
+### Access Control
 * Access Control List (ACL)
 * Permissions
-## Application Allow List
-## Decommissioning
-## Hardening Techniques
+### Application Allow List
+### Decommissioning
+### Hardening Techniques
 * Encryption
 * Installations of Endpoint Protection
 * Host-Based Firewall
