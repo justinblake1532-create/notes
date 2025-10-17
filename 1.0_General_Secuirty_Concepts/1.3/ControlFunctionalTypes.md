@@ -5,11 +5,11 @@
 
 
 ## Detective
- : Identifies and records events <u>after they have occurred</u>, but <u>without</u> directly preventing them
+ : Identifies and records events <ins>after they have occurred</ins>, but <ins>without</ins> directly preventing them
 
 
 ## Corrective
- : Security measure implemented <u>after a security incident</u> to mitifate its damage and restore system to a secure state
+ : Security measure implemented <ins>after a security incident</ins> to mitifate its damage and restore system to a secure state
 
 
 ## Directive
