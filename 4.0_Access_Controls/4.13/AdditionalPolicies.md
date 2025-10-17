@@ -1,7 +1,8 @@
-# AdditionalPolicies
+# Additional Policies
 
-Location-Based
+
+### Location-Based
  : Physical or system location
 
-Time-Based
+### Time-Based
  : How long a user can access a system/entity

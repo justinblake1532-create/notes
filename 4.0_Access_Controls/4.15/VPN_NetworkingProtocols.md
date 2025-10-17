@@ -1,10 +1,10 @@
-# VPN_NetworkingProtocols
+# VPN Networking Protocols
 
-Point-To-Point Tunneling(PPT)
+
+### Point-To-Point Tunneling(PPT)
  : Dial-up protocol to remotely connect devices; not secure
 
-- Transport Layer Security(TLS)
-- Internet Protocol Security(IPSec)
 
+- ### Transport Layer Security(TLS)
 
-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
+- ### Internet Protocol Security(IPSec)
