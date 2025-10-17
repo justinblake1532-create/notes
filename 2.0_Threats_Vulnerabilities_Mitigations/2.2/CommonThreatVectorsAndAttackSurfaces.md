@@ -1,9 +1,9 @@
 # Common Threat Vectors and Attack Surfaces
 
 ## Message-Based
-    * Email
-    * Short Message Service (SMS)
-    * Instant Message (IM)
+* Email
+* Short Message Service (SMS)
+* Instant Message (IM)
 
 
 - Image-Based
