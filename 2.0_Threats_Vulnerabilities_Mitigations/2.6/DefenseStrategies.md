@@ -1,10 +1,14 @@
-# DefenseStrategies
+# Defense Strategies
 
-Layering
- : Uses multiple, overlapping security controls (physical, administrative, technical), to protect against threats by creating <u>redudant<u> layers of defense
-Principle of Least Privilege
- : a user, program, or system should only have the minimum permissions and access necessary to perform its required functions, <u>nothing more<u>
-Variety
+### Layering
+ : Uses multiple, overlapping security controls (physical, administrative, technical), to protect against threats by creating <ins>redudant</ins> layers of defense
+
+
+### Principle of Least Privilege
+ : a user, program, or system should only have the minimum permissions and access necessary to perform its required functions, <ins>nothing more</ins>
+
+
+### Variety
  : A security program should use multiple, dissimilar types of security controls
 - Cont.
     * What you know -> User/Password
@@ -13,7 +17,11 @@ Variety
     * Where you are -> Geolocation
         - Example: 
             * Multi-Factor Authentication
-Randomness
+
+
+### Randomness
  : intentionally introduces unpredictability into a system to make it more difficult for attackers to exploit vulnerabilities
-Simplicity
+
+
+### implicity
  : Secuirty systems should be as straight forward and uncomplicated as possible

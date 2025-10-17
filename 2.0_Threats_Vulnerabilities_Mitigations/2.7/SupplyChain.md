@@ -1,9 +1,15 @@
-# SupplyChain
+# Supply Chain
 
-Suppliers
- : Provides <u>raw<u> materials
-- Hardware, Software, etc.
-Manufacturers
+### Suppliers
+ : Provides <ins>raw</ins> materials
+- Example
+    * Hardware
+    * Software
+
+
+### Manufacturers
  : Produces the main good from raw materials
-Vendors
+
+
+### Vendors
  : Sell the goods to consumers
