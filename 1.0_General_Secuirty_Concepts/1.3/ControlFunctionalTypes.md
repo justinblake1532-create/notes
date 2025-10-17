@@ -1,7 +1,7 @@
 # Control Functional Types
 
 ## Preventive
- : Designed to stop a security incident or vulnerability from occurring by preventing unauthorized access or activity <u>before</u> it happens
+ : Designed to stop a security incident or vulnerability from occurring by preventing unauthorized access or activity __before__ it happens
 
 
 ## Detective
