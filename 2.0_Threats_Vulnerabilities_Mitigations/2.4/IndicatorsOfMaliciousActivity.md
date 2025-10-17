@@ -1,6 +1,6 @@
 # Indicators of Malicious Activity
 
-## Malware Attacks
+### Malware Attacks
 * Ransomeware
 * Trojan
 * Worm
@@ -10,11 +10,11 @@
 * Keylogger
 * Logic Bomb
 * Rootkit
-## Physical Attacks
+### Physical Attacks
 * Brute Force
 * Radio Frequency Identification (RFID) Cloning
 * Environmental
-## Network Attacks
+### Network Attacks
 * Distributed Denial Of Service (DDoS)
     * Amplified
     * Reflected
@@ -23,21 +23,21 @@
 * On-Path
 * Credential Replay
 * Malicious Code
-## Application Attacks
+### Application Attacks
 * Injection
 * Buffer Overflow
 * Replay
 * Privilige Escalation
 * Forgery
 * Directory Transversal
-## Cryptographic Attacks
+### Cryptographic Attacks
 * Downgrade
 * Collision
 * Birthday
-## Password Attacks
+### Password Attacks
 * Spraying
 * Brute Force
-## Indicators
+### Indicators
 * Account Lockout
 * Concurrent Session Usage
 * Blocked Content
