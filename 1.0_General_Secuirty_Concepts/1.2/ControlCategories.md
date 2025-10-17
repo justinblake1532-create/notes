@@ -5,11 +5,11 @@
 
 
 ## Operational
- : Security control that is primarily <u>implemented and executed by people<u> to manage risk, rather than by systems
+ : Security control that is primarily <u>implemented and executed by people</u> to manage risk, rather than by systems
 
 
 ## Technical
- : A <u>hardaware, software, or firmware-based<u> safeguard implemented within a system or network to protect information assets by enforcing CIA
+ : A <u>hardaware, software, or firmware-based</u> safeguard implemented within a system or network to protect information assets by enforcing CIA
 
 
 ## Physical
