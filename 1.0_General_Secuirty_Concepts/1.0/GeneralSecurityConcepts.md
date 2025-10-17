@@ -1,4 +1,4 @@
-# GeneralSecurityConcepts
+# General Security Concepts
 
 ### Sophistication
  : How complex is it?
