@@ -1,4 +1,4 @@
-# HashingCollisions
+# Hashing Collisions
 
-Hashing Collisions
+### Hashing Collisions
  : Two different files generate the **SAME** hash values
