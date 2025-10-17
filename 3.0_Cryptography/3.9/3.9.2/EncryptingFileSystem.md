@@ -1,8 +1,10 @@
-# EncryptingFileSystem
+# Encrypting File System
+
 
 ## Encrypting File Systems(EFS)/FileVault
 
-Cryptoprocessors
+
+### Cryptoprocessors
  : Dedicated hardware to encrypt/decrypt data
  - Keys never leave the cryptoprocessors
  - Reduces the Attack Surface
