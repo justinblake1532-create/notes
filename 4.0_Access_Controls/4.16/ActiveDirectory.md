@@ -21,4 +21,5 @@
 * <ins>Domain Controllers</ins> -> The devices that centralize all IT assets
 * AD allows for easier security configurations; easy to organzie resources in general
 * Easily copy the AD database/domain controller
-* Able to assign user specific rights/privileges 
+* Able to assign user specific rights/privileges
+* Scaling resources more efficiently 
